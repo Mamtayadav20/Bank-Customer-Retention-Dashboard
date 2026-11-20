@@ -151,7 +151,7 @@ Through this project, I gained practical experience in:
 
 Data Science Student | Aspiring Data Analyst
 
-- GitHub: [Mamtayadav28](https://github.com/Mamtayadav28)
+- GitHub: [Mamtayadav20](https://github.com/Mamtayadav20)
 - Project: Bank Customer Retention Dashboard
 
 ---
